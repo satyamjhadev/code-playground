@@ -1,0 +1,12 @@
+[
+	{
+		"correct_answers":
+		[
+			"Enter 3 nos6-4"
+		],
+		"test": "1\n2\n3\n"
+	},
+	{
+		"test": "2\n3\n4\n"
+	}
+]

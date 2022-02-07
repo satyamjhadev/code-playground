@@ -1,0 +1,31 @@
+[
+	{
+		"test": "3\n"
+	},
+	{
+		"test": "6\n"
+	},
+	{
+		"test": "19\n"
+	},
+	{
+		"correct_answers":
+		[
+			"Enter Two Nos\nsum of 10 natural no is 45"
+		],
+		"test": "10\n"
+	},
+	{
+		"correct_answers":
+		[
+			"Enter Two Nos\nsum of 20 natural no is 190"
+		],
+		"test": "20\n"
+	},
+	{
+		"test": "50\n"
+	},
+	{
+		"test": "100\n"
+	}
+]

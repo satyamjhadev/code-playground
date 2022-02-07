@@ -9,7 +9,7 @@
 using namespace std;
 
 int main() {
-    cout<<"Enter Two Nos"<<endl;
+    cout<<"Enter No"<<endl;
     int n,sum;
     cin>>n;
     sum=((n)*(n-1))/2;
